@@ -7,7 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Program.fs" />
+    <Compile Include="src\Hai.fs" />
+    <Compile Include="src\Util.fs" />
+    <Compile Include="src\DealHais.fs" />
+    <Compile Include="src\Change.fs" />
+    <Compile Include="src\Yakuman.fs" />
+    <Compile Include="src\Display.fs" />
+    <Compile Include="src\Calc.fs" />
+    <Compile Include="src\Program.fs" />
   </ItemGroup>
 
 </Project>
